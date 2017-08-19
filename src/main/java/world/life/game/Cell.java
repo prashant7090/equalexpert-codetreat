@@ -6,6 +6,10 @@ package world.life.game;
 public class Cell {
     String state;
 
+    public Cell(String state) {
+        this.state = state;
+    }
+
     public String getState() {
         return state;
     }

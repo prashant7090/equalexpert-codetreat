@@ -5,4 +5,5 @@ package world.life.game;
  */
 public class GameEngineRules {
 
+
 }
